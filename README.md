@@ -8,8 +8,10 @@ En esta carpeta se encuentran 9 Notebooks, uno para cada tejido, de Python. En c
 ## Clasificación y segmentación de tejidos
 Esta carpeta contiene todos los datasets creados para cada tejido con células seleccionadas en función de 3 caracaterísticas:
 
-*· Media +/- desviación estándar de nº de genes que se expresan: _g_
-*· Media +/- desviación estándar de lecturas: _r_
-*· Media +/- desviación estándar de lecturas: _r2_
+  · Media +/- desviación estándar de nº de genes que se expresan: __g__
+  
+  · Media +/- desviación estándar de lecturas: __r__
+
+  · Media +/- desviación estándar de lecturas: __r2__
 
 También se encuentran los 6 Notebooks (en R), uno para cada región y técnica, con los modelos utilizados de clasificación-predicción y segmentación.
